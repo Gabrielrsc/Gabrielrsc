@@ -1,26 +1,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Gabrielrsc&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/gabrielrsc)
 
-<style>
-  body{
-    background-color: #0F0F0F;
-  }
-
-.container{
-  margin: 2rem;
-}
-
-.container-lang {
-  display: flex;
-  
-}
-
-.sobre,
-.top-langs {
-  width: 50%; /* ou outro valor para ajustar o tamanho */
-}
-
 </style>
-<div class="container">
+<div style="margin:20px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222831?style=for-the-badge&logo=linkedin&logoColor=00)](https://www.linkedin.com/in/gabrielrobertsons/)
 [![GitHub](https://img.shields.io/badge/GitHub-222831?style=for-the-badge&logo=github&logoColor=whith)](https://github.com/Gabrielrsc)
