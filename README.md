@@ -1,9 +1,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Gabrielrsc&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/gabrielrsc)
 
 
-<div  align="center"  >
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielrobertsons/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222831?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielrobertsons/)
 [![GitHub](https://img.shields.io/badge/GitHub-222831?style=for-the-badge&logo=github&logoColor=whith)](https://github.com/Gabrielrsc)
 [![portfolio](https://img.shields.io/badge/my_portfolio-222831?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabrielrsc.github.io/portifolio_gabriel/)
 
@@ -46,7 +46,7 @@
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/mysql-222831?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Business Intelligence (BI)
 ![Grafana](https://img.shields.io/badge/grafana-E34F26?style=for-the-badge&logo=grafana&logoColor=white)
