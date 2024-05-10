@@ -11,7 +11,11 @@
 
 <div align="center" >
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielrsc&bg_color=000&border_color=222831&title_color=fff&text_color=FFF)
+<div align="center"> 
+  <a href="https://github.com/Gabrielrsc">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielrsc&layout=compact&border_color=222831&title_color=fff&text_color=FFF&theme=dracula" alt="Profile statistics" height="180em"><a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielrsc&layout=compact&color=000&border_color=222831&title_color=fff&text_color=fff&theme=dracula" alt="Profile statistics" height="180em"></a>
+</div>
 
 </div>
  <div align="left">
