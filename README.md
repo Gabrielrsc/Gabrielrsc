@@ -14,10 +14,15 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielrsc&bg_color=000&border_color=222831&title_color=fff&text_color=FFF)
 
 </div>
- <div align="center">
+ <div align="left">
     
   ### Sobre mim
-  Prazer! Eu sou o Gabriel, Estou trilhando meu caminho para me tornar um desenvolvedor Full Stack, não apenas nos territórios familiares do desenvolvimento web, mas também abraçando desafios variados em tecnologias diversas. Se você compartilha dessa visão multifacetada do desenvolvimento, ficarei feliz em conectar e explorar oportunidades juntos!
+  Olá! Meu nome é Gabriel sou graduado em Análise e Desenvolvimento de Sistemas.
+  Minha jornada profissional tem sido marcada por uma busca constante por aprendizado e crescimento. Ao longo dos anos, adquiri experiência em diferentes áreas da tecnologia, desde o desenvolvimento de software até a gestão de projetos.
+
+  Busco conectar-me a pessoas que compartilhem dessa visão multifacetada do desenvolvimento, pois acredito que juntos podemos explorar novas oportunidades e alcançar grandes feitos. Se você também está em busca de desafios e crescimento profissional, ficarei feliz em trocar experiências e explorar novas possibilidades juntos!
+
+Vamos conectar e explorar o futuro da tecnologia juntos?
 
   </div>
   </div>
