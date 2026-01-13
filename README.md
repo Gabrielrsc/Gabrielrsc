@@ -1,61 +1,41 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Gabrielrsc&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/gabrielrsc)
+# Olá, eu sou o Gabriel Robertson 👋
 
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielrsc&layout=compact&color=000&border_color=222831&title_color=fff&text_color=fff&theme=dracula" height="170em">
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim
+Graduado em **Análise e Desenvolvimento de Sistemas**, sou apaixonado por transformar dados em decisões e construir soluções de software eficientes. Tenho experiência que transita entre o desenvolvimento de código e a visão analítica de Business Intelligence.
+
+- 🔭 Atualmente focado em aprimorar meus conhecimentos em **Python e BI**.
+- 🛠️ Busco criar soluções que unam performance e visualização de dados clara.
+- 📫 Como me encontrar: 
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabrielrobertsons/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gabrielrsc.github.io/portifolio_gabriel/" target="_blank"><img src="https://img.shields.io/badge/Meu_Portfolio-222831?style=flat-square&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
+</div>
+
+---
+
+### 🚀 Hard Skills
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) |
+| **Dados / BI** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
+
+---
+
+### 🎓 Formação
+* **Análise e Desenvolvimento de Sistemas** - Estácio
+* **Técnico em Informática** - PRONATEC
+
+---
 
 <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-222831?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielrobertsons/)
-  [![GitHub](https://img.shields.io/badge/GitHub-222831?style=for-the-badge&logo=github&logoColor=whith)](https://github.com/Gabrielrsc)
-  [![portfolio](https://img.shields.io/badge/my_portfolio-222831?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabrielrsc.github.io/portifolio_gabriel/)
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Gabrielrsc&data=followers,repositories,stars,commits&theme=nautilus" />
 </div>
-<div align="center"> 
-  <a href="https://github.com/Gabrielrsc">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielrsc&layout=compact&border_color=222831&title_color=fff&text_color=FFF&theme=dracula" alt="Profile statistics" height="180em"><a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielrsc&layout=compact&color=000&border_color=222831&title_color=fff&text_color=fff&theme=dracula" alt="Profile statistics" height="180em"></a>
-</div>
-
-
-
-
- <div align="left">
-    
-  ### Sobre mim
-  Olá! Meu nome é Gabriel sou graduado em Análise e Desenvolvimento de Sistemas.
-  Minha jornada profissional tem sido marcada por uma busca constante por aprendizado e crescimento. Ao longo dos anos, adquiri experiência em diferentes áreas da tecnologia, desde o desenvolvimento de software até a gestão de projetos.
-
-  Busco conectar-me a pessoas que compartilhem dessa visão multifacetada do desenvolvimento, pois acredito que juntos podemos explorar novas oportunidades e alcançar grandes feitos. Se você também está em busca de desafios e crescimento profissional, ficarei feliz em trocar experiências e explorar novas possibilidades juntos!
-
-  Vamos conectar e explorar o futuro da tecnologia juntos?
-</div>
-
-
-
-  ### 🎓 Formação
-  <hr>
-
-  ![PRONATEC](https://img.shields.io/badge/PRONATEC-Técnico_em_Informaticas-144BC8?style=for-the-badge&logo=estacio&logoColor=white)
-  ![Estácio](https://img.shields.io/badge/Estácio-Análise_e_Desenv._de_Sistemas-144BC8?style=for-the-badge&logo=estacio&logoColor=white)
-
-  ### HARD SKILLS:
-
-
-  <hr>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![SASS](https://img.shields.io/badge/SAAS-E7626C?style=for-the-badge&logo=sass&logoColor=white)
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Business Intelligence (BI)
-![Grafana](https://img.shields.io/badge/grafana-E34F26?style=for-the-badge&logo=grafana&logoColor=white)
-
-
-### Ferramentas
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
-
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
